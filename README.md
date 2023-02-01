@@ -7,9 +7,11 @@
 
 [Documentação sobre o Gitlab](https://github.com/edilsondsnerp/documentacao_git_lab)
 
-[Configurações ocultas do Wise PCP](https://github.com/edilsondsnerp/configuracaowise)
-
 [Conversão de SVN para Git](https://github.com/edilsondsnerp/conversaosvn_para_git)
 
+
+## Wise PCP
+
+[Configurações ocultas do Wise PCP](https://github.com/edilsondsnerp/configuracaowise)
 
 
