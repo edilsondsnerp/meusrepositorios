@@ -9,7 +9,7 @@
 
 [Configurações ocultas do Wise PCP](https://github.com/edilsondsnerp/configuracaowise)
 
-[Conversão de SVN para Git]
+[Conversão de SVN para Git](https://github.com/edilsondsnerp/conversaosvn_para_git)
 
 
 
