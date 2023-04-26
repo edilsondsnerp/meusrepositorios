@@ -15,3 +15,7 @@
 [Configurações ocultas do Wise PCP](https://github.com/edilsondsnerp/configuracaowise)
 
 
+## Links dos jobs do Jenkins
+[Links](https://github.com/edilsondsnerp/jenkins)
+
+
