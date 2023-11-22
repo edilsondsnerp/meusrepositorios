@@ -27,4 +27,7 @@
 ## Marlin
 [Fork do Marlin para a Anet A8 Mini](https://github.com/edilsondsnerp/Marlin)
 
+[PgAdmin III](https://www.postgresql.org/ftp/pgadmin/pgadmin3/v1.22.2/win32/)
+
+[Postgres 9.6.24](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
