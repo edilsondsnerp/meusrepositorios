@@ -33,3 +33,5 @@
 
 [Postgres 9.6.24](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
+[https://www.heidisql.com/](https://www.heidisql.com/)
+
