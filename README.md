@@ -35,3 +35,6 @@
 
 [https://www.heidisql.com/](https://www.heidisql.com/)
 
+[Teste Postman](https://devporai.com.br/como-criar-testes-automatizados-com-postman/)
+
+
