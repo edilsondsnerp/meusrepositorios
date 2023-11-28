@@ -33,7 +33,7 @@
 
 [Postgres 9.6.24](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-[https://www.heidisql.com/](https://www.heidisql.com/)
+[Editor de Postgres](https://www.heidisql.com/)
 
 [Teste Postman](https://devporai.com.br/como-criar-testes-automatizados-com-postman/)
 
