@@ -21,7 +21,7 @@
 [Configurações ocultas do Wise PCP](https://github.com/edilsondsnerp/configuracaowise)
 
 
-## Integerador Bimer x Muven
+## Integrador Bimer x Muven
 [Documentações sobre API da v2 e afins](https://github.com/edilsondsnerp/ibmuv_documentacao)
 
 [Selects e Updates úteis](https://github.com/edilsondsnerp/comandos_ibmuv)
