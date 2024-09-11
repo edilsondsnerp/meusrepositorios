@@ -4,6 +4,9 @@
 
 [Aqui](https://github.com/edilsondsnerp/gitlab)
 
+## Gerar Pacote Nuget a partir do Nuspec no Bimer.Core
+nuget pack bimer.core-dev.nuspec
+
 ## Métricas do Wise PCP e do Integrador Bimer x Muven
 [Aqui](https://github.com/edilsondsnerp/metricas_wise_integrador)
 
