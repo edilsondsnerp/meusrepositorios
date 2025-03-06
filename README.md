@@ -50,3 +50,31 @@ nuget pack bimer.core-dev.nuspec
 [Teste Postman](https://devporai.com.br/como-criar-testes-automatizados-com-postman/)
 
 
+
+## Profile do Postgres
+
+Profiler
+trace
+
+Onde fica o arquivo de configuração:
+
+````
+C:\Program Files\PostgreSQL\9.6\data\postgresql.conf
+````
+
+````
+log_statement = 'none'            # none, ddl, mod, all
+
+````
+
+trocar para all
+
+Reiniciar o servico do Postgresql
+
+Onde fica o arquivo de log:
+
+````
+C:\Program Files\PostgreSQL\9.6\data\pg_log
+````
+
+
